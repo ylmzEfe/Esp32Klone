@@ -1,0 +1,8 @@
+*-backups/
+fp-info-cache
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.bak
+*.lck
+_autosave-*
+*Gerber*/
