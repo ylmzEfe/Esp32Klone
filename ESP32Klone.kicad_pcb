@@ -6985,8 +6985,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "+3.3V"
-		(at 122.428 119.634 90)
+	(gr_text "IO39\n"
+		(at 122.428 119.126 90)
 		(layer "F.SilkS")
 		(uuid "ad287800-5657-4526-bd87-24491aa0c2f5")
 		(effects
@@ -7158,6 +7158,18 @@
 		(at 170.434 89.154 270)
 		(layer "F.SilkS")
 		(uuid "f5575ce3-539d-49d4-9b7b-33d4a4a5b01e")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "IN"
+		(at 121.666 119.126 90)
+		(layer "F.SilkS")
+		(uuid "f70a3dac-f4cc-4a9d-8eab-a1afb6c9db1d")
 		(effects
 			(font
 				(size 0.5 0.5)
